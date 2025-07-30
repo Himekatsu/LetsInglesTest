@@ -1,0 +1,6 @@
+fastapi
+folium
+uvicorn[standard]
+flet
+matplotlib
+googlemaps
